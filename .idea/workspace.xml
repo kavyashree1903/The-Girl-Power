@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580eac84-71e9-4561-a7be-b6d3a4c203ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e4wtRoOpL4PLZUWqP9SOojf8Ov" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580eac84-71e9-4561-a7be-b6d3a4c203ff" name="Default Changelist" comment="" />
+      <created>1593594386755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593594386755</updated>
+      <workItem from="1593594388332" duration="979000" />
+      <workItem from="1593595388457" duration="317000" />
+      <workItem from="1593595841726" duration="211000" />
+      <workItem from="1593621320902" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="767" y="468" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593594634268">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="767" y="468" width="447" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1593594634268" />
+    <state x="755" y="342" width="471" height="430" key="git4idea.merge.GitMergeDialog" timestamp="1593594732307">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="755" y="342" width="471" height="430" key="git4idea.merge.GitMergeDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1593594732307" />
+  </component>
+</project>
